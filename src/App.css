@@ -1,6 +1,29 @@
 .App {
   text-align: center;
+
 }
+
+.Confirmation-page{
+  text-align: center;
+  padding: 330px 0;
+  
+}
+
+.Verif{
+    padding: 330px 0;
+    border: 3px solid blue;
+    text-align: center;
+  
+}
+
+.AAForm{
+  padding: 270px 0;
+    border: 3px solid blue;
+    text-align: center;
+  
+}
+    
+
 
 .App-logo {
   height: 40vmin;
